@@ -1,2 +1,2 @@
 # shadowsocks_auto
-                               * * * * * root /cron/shadowsocks_auto.sh
+  echo'* * * * * root /cron/shadowsocks_auto.sh' >> /etc/crontab

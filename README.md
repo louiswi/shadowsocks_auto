@@ -1,2 +1,2 @@
 # shadowsocks_auto
-* * * * * root /cron/shadowsocks_auto.sh
+ * * * * * root /cron/shadowsocks_auto.sh
